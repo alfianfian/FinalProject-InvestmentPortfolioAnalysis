@@ -431,6 +431,3 @@ for(m in names(models)) {
   legend('topright', legend = m, bty = 'n')
 }
 
-git remote add origin https://github.com/alfianfian/FinalProject-InvestmentPortfolioAnalysis.git
-git branch -M main
-git push -u origin main
